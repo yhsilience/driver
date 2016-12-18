@@ -1,0 +1,1 @@
+cmd_/home/yh/sharewin/kernel/driver/day5/timer.ko := arm-fsl-linux-gnueabi-ld -EL -r  -T /home/yh/sharewin/kernel/linux-2.6.35.3/scripts/module-common.lds --build-id -o /home/yh/sharewin/kernel/driver/day5/timer.ko /home/yh/sharewin/kernel/driver/day5/timer.o /home/yh/sharewin/kernel/driver/day5/timer.mod.o
